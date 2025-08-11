@@ -85,7 +85,7 @@ import RingprocentChart from '../charts/RingprocentChart.vue';
 
 
 export default {
-  name: 'SecondSlide',
+  name: 'SixthSlide',
   components: {
     HorizontalStackBars,
     RingprocentChart,
@@ -125,42 +125,6 @@ export default {
           },
         ],
       },
-      serviceChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#c27ba0', '#a64d79', '#674ea7'],
-        series: [
-          {
-            name: 'Торговля',
-            data: [6, 3, 3, 1],
-          },
-          {
-            name: 'Бытовое обслуживание',
-            data: [3, 0, 0, 0],
-          },
-          {
-            name: 'Общественное питание',
-            data: [3, 1, 0, 0],
-          },
-        ],
-      },
-      servicepeopleChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#c27ba0', '#a64d79', '#674ea7'],
-        series: [
-          {
-            name: 'Торговля',
-            data: [18, 9, 9, 3],
-          },
-          {
-            name: 'Бытовое обслуживание',
-            data: [12, 0, 0, 0],
-          },
-          {
-            name: 'Общественное питание',
-            data: [10, 4, 0, 0],
-          },
-        ],
-      },
       MOChartData: {
         categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
         colors: ['#2b78e4'],
@@ -168,34 +132,6 @@ export default {
           {
             name: '',
             data: [1101, 500, 101, 58],
-          },
-        ],
-      },
-      usersChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#45818e', '#e69138'],
-        series: [
-          {
-            name: 'Централизованное',
-            data: [600, 60, 80, 50],
-          },
-          {
-            name: 'Децентрализованное',
-            data: [50, 20, 20, 0],
-          },
-        ],
-      },
-      centerChartData: {
-        categories: ['Резервуар', 'Башня', 'Колонка'],
-        colors: ['#6aa84f', '#e06666'],
-        series: [
-          {
-            name: 'Действующий',
-            data: [2, 1, 6],
-          },
-          {
-            name: 'Недействующий',
-            data: [1, 1, 0],
           },
         ],
       },

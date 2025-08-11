@@ -82,7 +82,7 @@ import TenthSlide from './slides/TenthSlide.vue';
 import EleventhSlide from './slides/EleventhSlide.vue';
 
 export default {
-  name: 'MapCard',
+  name: 'PasportsCard',
   components: {
     FirstSlide,
     SecondSlide,

@@ -203,20 +203,6 @@ export default {
       sortBy: 'name',
       sortDesc: false,
       selectedChart: 'chart1',
-      waterChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#a64d79', '#674ea7'],
-        series: [
-          {
-            name: 'Действующий',
-            data: [30, 20, 20, 10],
-          },
-          {
-            name: 'Недействующий',
-            data: [10, 0, 0, 0],
-          },
-        ],
-      },
       infrastructureChartData1: {
         categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
         colors: ['#45818e'],
@@ -234,34 +220,6 @@ export default {
           {
             name: '',
             data: [650, 80, 100, 50],
-          },
-        ],
-      },
-      usersChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#45818e', '#e69138'],
-        series: [
-          {
-            name: 'Централизованное',
-            data: [600, 60, 80, 50],
-          },
-          {
-            name: 'Децентрализованное',
-            data: [50, 20, 20, 0],
-          },
-        ],
-      },
-      centerChartData: {
-        categories: ['Резервуар', 'Башня', 'Колонка'],
-        colors: ['#6aa84f', '#e06666'],
-        series: [
-          {
-            name: 'Действующий',
-            data: [2, 1, 6],
-          },
-          {
-            name: 'Недействующий',
-            data: [1, 1, 0],
           },
         ],
       },

@@ -18,11 +18,11 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="4"></v-col>
-              <v-col cols="7">
+              <v-col cols="8">
                 <v-img
-                src="path/to/photo.jpg"
+                src="@/assets/Akim-photo.png"
                 class="akim-photo"
-                max-width="90"
+                max-width="150"
                 max-height="90"
                 contain
                 ></v-img>

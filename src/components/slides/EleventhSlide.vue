@@ -106,21 +106,6 @@ export default {
           categories: ['АО', 'ТОО', 'ПК', 'КХ', 'СЗЦ', 'СПК', 'СХПК', 'ИП', 'Другие'],
           colors: ['#6fa8dc'], 
       },
-      verticalChartData3: {
-        height: 200,
-        columnWidth: '35%',
-          series: [
-            {
-              name: '',
-              data: [40, 10, 30, 20],
-            },
-          ],
-          categories: ['Пашни', 'Сенокосы', 'Пастбища', 'Прочие'],
-          colors: ['#6aa84f'], 
-      },
-      charts: [
-        { label: 'Орашаемые', km: 30, percent: 75, color: '#45818e' },
-      ],
       ringChartData1: {
         colors: ['#ff9900', '#e69138', '#b45f06'],
         series: [16, 37, 47], 

@@ -82,7 +82,7 @@
         </div>
       </aside>
       <main class="page-content">
-        <MapCard />
+        <PasportsCard />
         <slot></slot>
       </main>
     </div>
@@ -90,14 +90,14 @@
 </template>
 
 <script>
-import MapCard from './MapCard.vue';
+import PasportsCard from './PasportsCard.vue';
 import { VPopover } from 'v-tooltip'; 
 
 
 export default {
   name: 'PageWithBackground',
   components: {
-    MapCard,
+    PasportsCard,
     'v-popover': VPopover 
   },
   props: {
@@ -130,14 +130,7 @@ export default {
         3: []
       },
       hashMapping: {
-        "/general/dist/index.html": "#general",
-        "/health/dist/index.html": "#health",
-        "/kandas/dist/index.html": "#kandas",
-        "/lastvue/dist/index.html": "#lastvue",
-        "/demography/dist/index.html": "#demography",
-        "/trade/dist/index.html": "#trade",
-        "/animal/dist/index.html": "#animal",
-        "/plant/dist/index.html": "#plant"
+        
       },
       popperOptions: {
         modifiers: [

@@ -46,26 +46,6 @@ export default {
       selectedRegionId: null,
       tooltipHtml: '',
       tooltipEvent: null,
-      horizontalChartData2: {
-        categories: ['Промышленность', 'Строительство', 'Торговля', 'Транспорт', 'Туризм', 'Другие'],
-        colors: ['#e69138'],
-        series: [
-          {
-            name: '',
-            data: [200, 111, 100, 100, 25, 86],
-          },
-        ],
-      },
-      horizontalChartData1: {
-        categories: ['16-29 лет', 'Занятые', 'Наемные', 'Самозанятые', 'Безработные'],
-        colors: ['#45818e'],
-        series: [
-          {
-            name: '',
-            data: [268, 406, 306, 100, 126],
-          },
-        ],
-      },
       verticalChartData1: {
         height: 200,
         columnWidth: '35%',

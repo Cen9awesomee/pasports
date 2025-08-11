@@ -100,7 +100,7 @@ import HorizontalStackBars from '../charts/HorizontalStackBars.vue';
 
 
 export default {
-  name: 'SecondSlide',
+  name: 'EightSlide',
   components: {
     HorizontalStackBars,
   },
@@ -219,45 +219,6 @@ export default {
           },
         ],
       },
-      houseChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#f1c232'],
-        series: [
-          {
-            name: '',
-            data: [110, 25, 40, 20],
-          },
-        ],
-      },
-      usersChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#45818e', '#e69138'],
-        series: [
-          {
-            name: 'Централизованное',
-            data: [600, 60, 80, 50],
-          },
-          {
-            name: 'Децентрализованное',
-            data: [50, 20, 20, 0],
-          },
-        ],
-      },
-      centerChartData: {
-        categories: ['Резервуар', 'Башня', 'Колонка'],
-        colors: ['#6aa84f', '#e06666'],
-        series: [
-          {
-            name: 'Действующий',
-            data: [2, 1, 6],
-          },
-          {
-            name: 'Недействующий',
-            data: [1, 1, 0],
-          },
-        ],
-      },
-      
     };
   },
   computed: {

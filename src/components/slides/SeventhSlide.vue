@@ -62,7 +62,7 @@ import VerticalStackBars from '../charts/VerticalStackBars.vue';
 
 
 export default {
-  name: 'SecondSlide',
+  name: 'SeventhSlide',
   components: {
     RingCharts,
     VerticalStackBars,

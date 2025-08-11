@@ -95,7 +95,7 @@
 import HorizontalStackBars from '../charts/HorizontalStackBars.vue';
 
 export default {
-  name: 'SecondSlide',
+  name: 'FourthSlide',
   components: {
     HorizontalStackBars,
   },

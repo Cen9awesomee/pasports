@@ -81,7 +81,7 @@ import HorizontalStackBars from '../charts/HorizontalStackBars.vue';
 
 
 export default {
-  name: 'SecondSlide',
+  name: 'FifthSlide',
   components: {
     HorizontalStackBars,
   },
@@ -163,34 +163,6 @@ export default {
           {
             name: '',
             data: [20, 15, 18, 14],
-          },
-        ],
-      },
-      usersChartData: {
-        categories: ['с.Заградовка', 'с.Тонкошуровка', 'с.Горное', 'с.Жамбыл'],
-        colors: ['#45818e', '#e69138'],
-        series: [
-          {
-            name: 'Централизованное',
-            data: [600, 60, 80, 50],
-          },
-          {
-            name: 'Децентрализованное',
-            data: [50, 20, 20, 0],
-          },
-        ],
-      },
-      centerChartData: {
-        categories: ['Резервуар', 'Башня', 'Колонка'],
-        colors: ['#6aa84f', '#e06666'],
-        series: [
-          {
-            name: 'Действующий',
-            data: [2, 1, 6],
-          },
-          {
-            name: 'Недействующий',
-            data: [1, 1, 0],
           },
         ],
       },
