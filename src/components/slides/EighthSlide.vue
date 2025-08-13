@@ -76,10 +76,10 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>0 (нет)</p>

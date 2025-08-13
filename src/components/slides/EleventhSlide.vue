@@ -13,7 +13,7 @@
       <v-card class="chart-card chart-card-agro-industry-second">
         <v-card-title class="card-header">Объем урожая, тонн</v-card-title>
         <v-card-text class="card-content">
-          <ring-charts height="100%" operation="sum" :data-source="ringChartData1" /> 
+          <ring-charts height="100%" :data-source="ringChartData1" /> 
         </v-card-text>
       </v-card>
     </div>
@@ -21,13 +21,13 @@
       <v-card class="chart-card chart-card-agro-industry-third">
         <v-card-title class="card-header">Перерабатывающие цеха, ед.</v-card-title>
         <v-card-text class="card-content">
-          <ring-charts height="100%" operation="sum" :data-source="ringChartData2" />
+          <ring-charts height="100%" :data-source="ringChartData2" />
         </v-card-text>
       </v-card>
       <v-card class="chart-card chart-card-agro-industry-fourth">
         <v-card-title class="card-header">С/х техника, ед.</v-card-title>
         <v-card-text class="card-content">
-          <ring-charts height="100%" operation="sum" :data-source="ringChartData3" />
+          <ring-charts height="100%" :data-source="ringChartData3" />
         </v-card-text>
       </v-card>
     </div>

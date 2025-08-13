@@ -8,7 +8,7 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="8">
-                <p><strong>Групповой водопровод</strong></p>
+                <p>Групповой водопровод</p>
                 <p><strong>Система водоснабжения</strong></p>
               </v-col>
               <v-col cols="4">
@@ -16,12 +16,12 @@
               </v-col>
             </v-row>
             <v-row no-gutters>
-              <v-col cols="5">
-                <p><strong>Год постройки</strong></p>
-                <p><strong>Собственность</strong></p>
-                <p><strong>Обслуживает</strong></p>
+              <v-col cols="6">
+                <p>Год постройки</p>
+                <p>Собственность</p>
+                <p>Обслуживает</p>
               </v-col>
-              <v-col cols="7">
+              <v-col cols="6">
                 <p>2020 г.</p>
                 <p>ТОО "Заградовское"</p>
                 <p>ТОО "Заградовское"</p>
@@ -38,13 +38,13 @@
         <v-row class="water-info-general" no-gutters>
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
-              <v-col cols="6">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+              <v-col cols="7">
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
-              <v-col cols="6">
+              <v-col cols="5">
                 <p>Подземный</p>
                 <p>Подземный</p>
                 <p>Подземный</p>
@@ -91,10 +91,10 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>Пункты раздачи воды</strong></p>
-                <p><strong>Комплексные блоки модуля</strong></p>
-                <p><strong>Скважины</strong></p>
-                <p><strong>Колодцы</strong></p>
+                <p>Пункты раздачи воды</p>
+                <p>Комплексные блоки модуля</p>
+                <p>Скважины</p>
+                <p>Колодцы</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>30 (5)</p>
@@ -110,8 +110,8 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>С водоочистной системой</strong></p>
-                <p><strong>Без водоочистной системы</strong></p>
+                <p>С водоочистной системой</p>
+                <p>Без водоочистной системы</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>30 (5)</p>
@@ -130,15 +130,15 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="12">
-                <p><strong>Пользователи, чел. (Расстояние подвоза, км)</strong></p>
+                <p><strong>Пользователи, чел. (Расст. подвоза, км)</strong></p>
               </v-col>
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>30 (5)</p>

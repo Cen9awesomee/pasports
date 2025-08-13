@@ -59,7 +59,7 @@
           <div class="ring-chart-block">
             <div class="chart-label">{{ charts[0].label }}</div>
             <div class="chart-top">{{ charts[0].value1 }}</div>
-            <ringprocent-chart height="100%" :data-source="getChartData(charts[0])" />
+            <ringprocent-chart height="78%" :data-source="getChartData(charts[0])" />
             <div class="chart-bottom">{{ charts[0].value2 }}</div>
           </div>
           <div class="chart-text-block">
@@ -70,7 +70,7 @@
           <div class="ring-chart-block">
             <div class="chart-label">{{ charts[1].label }}</div>
             <div class="chart-top">{{ charts[1].value1 }}</div>
-            <ringprocent-chart height="100%" :data-source="getChartData(charts[1])" />
+            <ringprocent-chart height="78%" :data-source="getChartData(charts[1])" />
             <div class="chart-bottom">{{ charts[1].value2 }}</div>
           </div>
         </div>

@@ -20,7 +20,7 @@
       <v-card class="chart-card chart-card-road-second">
         <v-card-title class="card-header">Требуется ремонт, км</v-card-title>
         <v-card-text class="card-content">
-          <ring-charts height="100%" operation="sum" :data-source="ringChartData1" />
+          <ring-charts height="100%" :data-source="ringChartData1" />
         </v-card-text>
       </v-card>
     </div>
@@ -47,7 +47,7 @@
             >
             <div class="chart-label">{{ item.label }}</div>
             <div class="chart-km">{{ item.km }}</div>
-            <ringprocent-chart height="100%" :data-source="getChartData(item)"
+            <ringprocent-chart height="65%" :data-source="getChartData(item)"
             />
           </div>
         </div>

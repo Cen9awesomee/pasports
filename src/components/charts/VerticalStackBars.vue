@@ -27,7 +27,7 @@
     },
     columnWidth: {
       type: String,
-      default: '35%',
+      default: '50%',
     },
     stacked: {
       type: Boolean,

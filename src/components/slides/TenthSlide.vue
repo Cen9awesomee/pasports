@@ -13,10 +13,10 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовкаа</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>15 (20)</p>
@@ -37,15 +37,15 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="12">
-                <p><strong>Трансформаторные подстанции (износ, %)</strong></p>
+                <p><strong>Трансформ. подстанции (износ, %)</strong></p>
               </v-col>
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовкаа</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовкаа</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>3 (50)</p>
@@ -78,15 +78,15 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="12">
-                <p><strong>Наличие сжиженного газа (пункты обмена)</strong></p>
+                <p><strong>Наличие сжиж. газа (пункты обмена)</strong></p>
               </v-col>
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовкаа</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>Нет (0)</p>
@@ -112,10 +112,10 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="6">
-                <p><strong>с. Заградовкаа</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="6">
                 <p>Active, Beeline (есть)</p>
@@ -141,10 +141,10 @@
             </v-row>
             <v-row no-gutters>
               <v-col cols="8">
-                <p><strong>с. Заградовкаа</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="4">
                 <p>Есть (есть)</p>
@@ -165,15 +165,15 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="12">
-                <p><strong>Стационарные отделения (передвижные)</strong></p>
+                <p><strong>Стационар. отделения (передвижные)</strong></p>
               </v-col>
             </v-row>
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>2 (1)</p>

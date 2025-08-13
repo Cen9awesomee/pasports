@@ -39,7 +39,7 @@
               >
               <div class="chart-label">{{ item.label }}</div>
               <div class="chart-km">{{ item.km }}</div>
-              <ringprocent-chart height="100%" :data-source="getChartData(item)"
+              <ringprocent-chart height="79%" :data-source="getChartData(item)"
               />
             </div>
           </div>
@@ -48,7 +48,7 @@
       <v-card class="chart-card chart-card-resource-fifth">
         <v-card-title class="card-header">Пастбища</v-card-title>
         <v-card-text class="card-content">
-          <ring-charts height="100%" operation="sum" :data-source="ringChartData1" />
+          <ring-charts height="100%" :data-source="ringChartData1" />
         </v-card-text>
       </v-card>
     </div>

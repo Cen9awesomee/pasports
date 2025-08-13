@@ -8,10 +8,10 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>75</p>
@@ -24,7 +24,7 @@
         </v-row>
       </v-card-text>
     </v-card>
-    <v-card class="chart-card chart-card-roadlocal-second elevation-2">
+    <v-card class="chart-card chart-card-roadlocal-second">
       <v-card-title class="card-header">Дороги связывающие с райцентром, км</v-card-title>
       <v-card-text class="card-content">
         <div class="content-layout">
@@ -60,10 +60,10 @@
           <v-col cols="12" class="water-info">
             <v-row no-gutters>
               <v-col cols="9">
-                <p><strong>с. Заградовка</strong></p>
-                <p><strong>с. Тонкошуровка</strong></p>
-                <p><strong>с. Горное</strong></p>
-                <p><strong>с. Жамбыл</strong></p>
+                <p>с. Заградовка</p>
+                <p>с. Тонкошуровка</p>
+                <p>с. Горное</p>
+                <p>с. Жамбыл</p>
               </v-col>
               <v-col align="end" cols="3">
                 <p>Есть</p>

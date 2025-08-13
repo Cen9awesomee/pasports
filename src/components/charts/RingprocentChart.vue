@@ -44,7 +44,7 @@
     plotOptions: {
       radialBar: {
         hollow: {
-          size: '65%',
+          size: '60%',
         },
         dataLabels: {
           name: {

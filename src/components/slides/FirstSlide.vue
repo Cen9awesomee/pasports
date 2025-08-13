@@ -5,39 +5,45 @@
       <v-card-text class="card-content">
         <v-row class="general-info" no-gutters>
           <v-col cols="8" class="general-info-left">
-            <v-row no-gutters>
-            <v-col cols="4">
-              <p><strong>Админ. центр</strong></p>
-              <p><strong>Аким</strong></p>
-            </v-col>
-            <v-col cols="7">
-              <p>с. Заградовка</p>
-              <p class="akim-name">Тулегенов Берик Тлегенович</p>
-              <p class="akim-date">с 14.02.2008 г.</p>
-            </v-col>
-            </v-row>
-            <v-row no-gutters>
-              <v-col cols="4"></v-col>
-              <v-col cols="8">
-                <v-img
-                src="@/assets/Akim-photo.png"
-                class="akim-photo"
-                max-width="150"
-                max-height="90"
-                contain
-                ></v-img>
-              </v-col>
-            </v-row>
-            <v-row no-gutters>
-              <v-col cols="4">
-                <p><strong>Координаты</strong></p>
-                <p><strong>Площадь</strong></p>
-              </v-col>
-              <v-col cols="7">
-                <p>53°50'46" с.ш. 68°36'36" в.д.</p>
-                <p>305,2 га</p>
-              </v-col>
-            </v-row>
+            <div>
+              <v-row no-gutters>
+                <v-col cols="4">
+                  <p><strong>Админ. центр</strong></p>
+                  <p><strong>Аким</strong></p>
+                </v-col>
+                <v-col cols="7">
+                  <p>с. Заградовка</p>
+                  <p class="akim-name">Тулегенов Берик Тлегенович</p>
+                  <p class="akim-date">с 14.02.2008 г.</p>
+                </v-col>
+              </v-row>
+            </div>
+            <div>
+              <v-row no-gutters>
+                <v-col cols="2"></v-col>
+                <v-col cols="8">
+                  <v-img
+                    src="@/assets/Akim-photo.png"
+                    class="akim-photo"
+                    width="116"
+                    height="100"
+                    contain
+                  ></v-img>
+                </v-col>
+              </v-row>
+            </div>
+            <div>
+              <v-row no-gutters>
+                <v-col cols="4">
+                  <p><strong>Координаты</strong></p>
+                  <p><strong>Площадь</strong></p>
+                </v-col>
+                <v-col cols="7">
+                  <p>53°50'46" с.ш. 68°36'36" в.д.</p>
+                  <p>305,2 га</p>
+                </v-col>
+              </v-row>
+            </div>
           </v-col>
           <v-col cols="4" class="general-info-right">
             <v-row no-gutters>
